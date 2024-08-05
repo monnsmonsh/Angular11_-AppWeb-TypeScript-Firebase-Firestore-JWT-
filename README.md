@@ -1,4 +1,6 @@
-# Angular11_-AppWeb-TypeScript-Firebase-Firestore-JWT-
+# Angular17_-AppWeb|TypeScript|Firebase|Firestore|JWT|
+
+
 
 ## 🛠 Tecnologías Utilizadas
 - NodeJS v20.16.0
